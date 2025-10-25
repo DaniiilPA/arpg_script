@@ -1,0 +1,15 @@
+{
+  "script": {
+    "comb": "f8",
+    "key_list": ["i", "o"],
+    "delay_list": [1, 1],
+    "delay": 0.5,
+    "block_key": "f9"
+  },
+  "togler": {
+    "comb": "f11",
+    "key": "q+w",
+    "delay": 0.5,
+    "block_key": "f12"
+  }
+}
